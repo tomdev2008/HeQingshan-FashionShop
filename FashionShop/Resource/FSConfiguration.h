@@ -28,6 +28,6 @@
 #define QQ_WEIBO_APP_REDIRECT_URI @"http://www.xihuan.us"
 #define WEIXIN_API_APP_KEY @"wx3db795f6fb81fb4c"
 
-#define FLURRY_APP_KEY @"BVP8QWHDDXKCBPZRPFT4"
+#define FLURRY_APP_KEY @"BVP8QWHDDXKCBPZRPFT4" 
 
 #endif
